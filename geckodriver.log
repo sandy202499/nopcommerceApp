@@ -1,0 +1,35 @@
+1720914110380	geckodriver	INFO	Listening on 127.0.0.1:65353
+1720914113445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65354" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sridh\\AppData\\Local\\Temp\\rust_mozprofilelp9GC0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1720914113902	Marionette	INFO	Marionette enabled
+1720914114025	Marionette	INFO	Listening on port 65365
+WebDriver BiDi listening on ws://127.0.0.1:65354
+Read port: 65365
+1720914114231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65354/devtools/browser/f7678c4c-3ebd-4761-80de-6160d73ef721
+1720914117562	Marionette	INFO	Stopped listening on port 65365
+JavaScript warning: https://admin-demo.nopcommerce.com/js/ugb2rim6qtxni-qfi-iama.scripts.js?v=g1zKjCcpM9evxZEaM4IwhFmEG_0, line 2: Script terminated by timeout at:
+each@https://admin-demo.nopcommerce.com/js/ugb2rim6qtxni-qfi-iama.scripts.js?v=g1zKjCcpM9evxZEaM4IwhFmEG_0:2:3167
+@https://admin-demo.nopcommerce.com/js/ugb2rim6qtxni-qfi-iama.scripts.js?v=g1zKjCcpM9evxZEaM4IwhFmEG_0:2:23850
+@https://admin-demo.nopcommerce.com/js/ugb2rim6qtxni-qfi-iama.scripts.js?v=g1zKjCcpM9evxZEaM4IwhFmEG_0:2:220
+@https://admin-demo.nopcommerce.com/js/ugb2rim6qtxni-qfi-iama.scripts.js?v=g1zKjCcpM9evxZEaM4IwhFmEG_0:2:225
+
+Dynamically enable window occlusion 1
+1720914118671	geckodriver	INFO	Listening on 127.0.0.1:65394
+1720914121717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65395" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sridh\\AppData\\Local\\Temp\\rust_mozprofileiBO0vG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1720914122006	Marionette	INFO	Marionette enabled
+1720914122099	Marionette	INFO	Listening on port 65404
+WebDriver BiDi listening on ws://127.0.0.1:65395
+Read port: 65404
+1720914122262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65395/devtools/browser/f11dc4f3-0c6a-4753-af09-1cdb01a27ad8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+JavaScript error: https://admin-demo.nopcommerce.com/admin/, line 3: SyntaxError: expected expression, got '==='
+1720914126371	Marionette	INFO	Stopped listening on port 65404
+Dynamically enable window occlusion 1
